@@ -1,5 +1,5 @@
 # Caesar Cipher
-A fun project that encrypts and decrypts a file based on the [Caesar Cipher]("https://en.wikipedia.org/wiki/Caesar_cipher"). 
+A fun project that encrypts and decrypts a file based on the [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher). 
 ## Why?
 I've always been interested in cryptography and this seem like a good starting point. 
 ## Compiling
