@@ -1,6 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <exception>
+#ifndef CIPHER_H
+#define CIPHER_H
 class Cipher{
     private:
     std::string file_name;
@@ -23,3 +25,4 @@ class Cipher{
     void decode();
     void shift_string(Operation);
 };
+#endif
