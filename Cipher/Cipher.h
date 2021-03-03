@@ -8,6 +8,7 @@ class Cipher{
     enum class Operation{
        ENCODE, DECODE 
     };
+    const int alphabet_length = 26;
     class Cipher_Error:public std::exception{
         public:
         virtual const char* what() const noexcept {
