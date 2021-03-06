@@ -1,7 +1,7 @@
 # Caesar Cipher
 A fun project that encrypts and decrypts a file based on the [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher). 
 ## Why?
-I've always been interested in cryptography and this seem like a good starting point. 
+I've always been interested in cryptography and this seemed like a good starting point. 
 ## Compiling
 Since it's a small project using your default compiler would suffice. Personally, I use the GNU g++ compiler and the following command (Assuming you are in the project root directory):
 `g++ ./Cipher/Cipher.cpp cipher-me.cpp -o cipher-me`
